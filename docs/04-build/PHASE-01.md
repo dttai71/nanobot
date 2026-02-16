@@ -56,7 +56,7 @@ Key Deliverables:
 - [x] /docs folder structure with stage mapping
 - [x] 5 foundation ADRs
 - [x] AGENTS.md (< 60 lines, SDLC compliant)
-- [ ] Unit tests for AgentLoop, MessageBus, ContextBuilder, MemoryStore
+- [x] Unit tests for AgentLoop, MessageBus, ContextBuilder, MemoryStore
 - [x] .github/ governance files (PR template, issue templates, CODEOWNERS)
 - [x] Pre-commit hooks configuration
 - [x] CONTRIBUTING.md with SDLC tier reference
@@ -99,7 +99,7 @@ Key Deliverables:
 | Gate | Date | Criteria | Status |
 |------|------|----------|--------|
 | Phase Start | Feb 17 | SDLC tier classified, roadmap approved | Passed |
-| Mid-Phase Review | Mar 1 | Sprint 01 complete, 40%+ coverage | Pending |
+| Mid-Phase Review | Mar 1 | Sprint 01 complete, 40%+ coverage | In Progress (33%) |
 | Phase Complete (G3) | Mar 14 | 60%+ coverage, CI/CD green, docs complete | Pending |
 
 ---
@@ -108,8 +108,8 @@ Key Deliverables:
 
 | Metric | Target | Actual | Trend |
 |--------|--------|--------|-------|
-| Test coverage | 60% | ~15% | -- |
-| Lint errors | 0 | TBD | -- |
+| Test coverage | 60% | 33% | Up |
+| Lint errors | 0 | 759 (pre-existing upstream) | -- |
 | ADRs documented | 5 | 5 | -- |
 
 ---

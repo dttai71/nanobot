@@ -10,5 +10,5 @@
 
 | # | Name | Phase | Duration | Status | Key Deliverable |
 |---|------|-------|----------|--------|-----------------|
-| 01 | Governance & Core Tests | Phase 1 | Feb 17-28, 2026 | Active | SDLC setup + 40% test coverage |
-| 02 | Provider & Channel Tests | Phase 1 | Mar 3-14, 2026 | Planned | Provider/Channel tests + CI/CD |
+| 01 | Governance & Core Tests | Phase 1 | Feb 17-28, 2026 | Closed (A-) | SDLC setup + 33% test coverage (124 tests) |
+| 02 | Provider & Channel Tests | Phase 1 | Mar 3-14, 2026 | Active | Provider/Channel tests + CI/CD |
