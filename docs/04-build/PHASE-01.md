@@ -6,7 +6,7 @@
 **Authority**: PM/PJM
 **Stage**: 04 - BUILD
 **Duration**: 2026-02-17 - 2026-03-14 (4 weeks)
-**Sprint**: Sprint 01 - Governance & Core Tests
+**Sprint**: Sprint 02 - Provider & Channel Tests
 
 ---
 
@@ -45,8 +45,8 @@ Build the safety net before we run — establish governance, testing, and qualit
 
 | Sprint | Name | Duration | Focus | Status |
 |--------|------|----------|-------|--------|
-| Sprint 01 | Governance & Core Tests | 10 days (Feb 17-28) | SDLC setup + AgentLoop/Bus tests | Active |
-| Sprint 02 | Provider & Channel Tests | 10 days (Mar 3-14) | Provider/Channel tests + CI/CD | Planned |
+| Sprint 01 | Governance & Core Tests | 10 days (Feb 17-28) | SDLC setup + AgentLoop/Bus tests | Closed (A-) |
+| Sprint 02 | Provider & Channel Tests | 10 days (Mar 3-14) | Provider/Channel tests + CI/CD | Active |
 
 ### Sprint 01: Governance & Core Tests
 **Duration**: Feb 17 - Feb 28, 2026
