@@ -1,8 +1,12 @@
 # Test Strategy — Nanobot
 
+**Version**: 1.0.0
 **Date**: February 16, 2026
+**Status**: ACTIVE
+**Authority**: PM/PJM
 **Stage**: 05 - TEST
 **Tier**: STANDARD
+**Sprint**: Sprint 01 - Governance & Core Tests
 
 ---
 

@@ -1,4 +1,8 @@
-"""Message tool for sending messages to users."""
+"""
+Message tool for sending messages to users.
+
+Stage: 04 - BUILD
+"""
 
 from typing import Any, Callable, Awaitable
 

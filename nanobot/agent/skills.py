@@ -1,4 +1,8 @@
-"""Skills loader for agent capabilities."""
+"""
+Skills loader for agent capabilities.
+
+Stage: 04 - BUILD
+"""
 
 import json
 import os

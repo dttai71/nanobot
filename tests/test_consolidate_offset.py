@@ -1,4 +1,8 @@
-"""Test session management with cache-friendly message handling."""
+"""
+Test session management with cache-friendly message handling.
+
+Stage: 05 - TEST
+"""
 
 import pytest
 from pathlib import Path

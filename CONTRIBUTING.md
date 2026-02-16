@@ -1,5 +1,14 @@
 # Contributing to Nanobot
 
+**Version**: 1.0.0
+**Date**: February 16, 2026
+**Status**: ACTIVE
+**Authority**: PM/PJM
+**Stage**: 08 - COLLABORATE
+**Sprint**: Sprint 01 - Governance & Core Tests
+
+---
+
 Thank you for your interest in contributing to nanobot!
 
 ## SDLC Governance

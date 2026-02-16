@@ -1,4 +1,8 @@
-"""Agent core module."""
+"""
+Agent core module.
+
+Stage: 04 - BUILD
+"""
 
 from nanobot.agent.loop import AgentLoop
 from nanobot.agent.context import ContextBuilder

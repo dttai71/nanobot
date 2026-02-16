@@ -1,4 +1,8 @@
-"""Configuration loading utilities."""
+"""
+Configuration loading utilities.
+
+Stage: 04 - BUILD
+"""
 
 import json
 from pathlib import Path

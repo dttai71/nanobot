@@ -1,4 +1,8 @@
-"""Cron types."""
+"""
+Cron types.
+
+Stage: 04 - BUILD
+"""
 
 from dataclasses import dataclass, field
 from typing import Literal

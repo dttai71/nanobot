@@ -1,4 +1,8 @@
-"""CLI commands for nanobot."""
+"""
+CLI commands for nanobot.
+
+Stage: 04 - BUILD
+"""
 
 import asyncio
 import os

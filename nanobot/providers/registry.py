@@ -8,6 +8,8 @@ Adding a new provider:
 
 Order matters — it controls match priority and fallback. Gateways first.
 Every entry writes out all fields so you can copy-paste as a template.
+
+Stage: 04 - BUILD
 """
 
 from __future__ import annotations

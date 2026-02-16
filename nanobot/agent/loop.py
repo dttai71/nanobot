@@ -1,4 +1,8 @@
-"""Agent loop: the core processing engine."""
+"""
+Agent loop: the core processing engine.
+
+Stage: 04 - BUILD
+"""
 
 import asyncio
 from contextlib import AsyncExitStack

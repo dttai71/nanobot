@@ -1,3 +1,9 @@
+"""
+Unit tests for Email channel.
+
+Stage: 05 - TEST
+"""
+
 from email.message import EmailMessage
 from datetime import date
 

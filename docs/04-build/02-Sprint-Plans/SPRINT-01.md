@@ -1,7 +1,10 @@
 # Sprint 01: Governance & Core Tests
 
 **Version**: 1.0.0
-**Status**: Active
+**Date**: February 16, 2026
+**Status**: ACTIVE
+**Authority**: PM/PJM
+**Stage**: 04 - BUILD
 **Duration**: 2026-02-17 - 2026-02-28 (10 days)
 **Phase**: Phase 1 - Quality Foundation
 **Team**: Core Team

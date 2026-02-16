@@ -1,4 +1,8 @@
-"""LiteLLM provider implementation for multi-provider support."""
+"""
+LiteLLM provider implementation for multi-provider support.
+
+Stage: 04 - BUILD
+"""
 
 import json
 import json_repair

@@ -1,4 +1,8 @@
-"""Memory system for persistent agent memory."""
+"""
+Memory system for persistent agent memory.
+
+Stage: 04 - BUILD
+"""
 
 from pathlib import Path
 

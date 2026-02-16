@@ -1,4 +1,8 @@
-"""Web tools: web_search and web_fetch."""
+"""
+Web tools: web_search and web_fetch.
+
+Stage: 04 - BUILD
+"""
 
 import html
 import json

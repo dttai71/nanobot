@@ -1,4 +1,8 @@
-"""Shell execution tool."""
+"""
+Shell execution tool.
+
+Stage: 04 - BUILD
+"""
 
 import asyncio
 import os

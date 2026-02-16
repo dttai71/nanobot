@@ -1,4 +1,8 @@
-"""Subagent manager for background task execution."""
+"""
+Subagent manager for background task execution.
+
+Stage: 04 - BUILD
+"""
 
 import asyncio
 import json

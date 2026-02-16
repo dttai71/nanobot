@@ -1,4 +1,8 @@
-"""Async message queue for decoupled channel-agent communication."""
+"""
+Async message queue for decoupled channel-agent communication.
+
+Stage: 04 - BUILD
+"""
 
 import asyncio
 from typing import Callable, Awaitable

@@ -1,4 +1,8 @@
-"""Base LLM provider interface."""
+"""
+Base LLM provider interface.
+
+Stage: 04 - BUILD
+"""
 
 from abc import ABC, abstractmethod
 from dataclasses import dataclass, field

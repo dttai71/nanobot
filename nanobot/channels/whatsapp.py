@@ -1,4 +1,8 @@
-"""WhatsApp channel implementation using Node.js bridge."""
+"""
+WhatsApp channel implementation using Node.js bridge.
+
+Stage: 04 - BUILD
+"""
 
 import asyncio
 import json

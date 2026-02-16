@@ -1,4 +1,8 @@
-"""Email channel implementation using IMAP polling + SMTP replies."""
+"""
+Email channel implementation using IMAP polling + SMTP replies.
+
+Stage: 04 - BUILD
+"""
 
 import asyncio
 import html

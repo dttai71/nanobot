@@ -1,8 +1,11 @@
 # ADR-001: Agent-First Monolithic Architecture
 
-**Status**: Accepted
+**Version**: 1.0.0
 **Date**: February 16, 2026
-**Deciders**: CTO, Core Team
+**Status**: ACCEPTED
+**Authority**: CTO, Core Team
+**Stage**: 02 - DESIGN
+**Sprint**: Sprint 01 - Governance & Core Tests
 
 ## Context
 

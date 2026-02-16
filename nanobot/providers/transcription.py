@@ -1,4 +1,8 @@
-"""Voice transcription provider using Groq."""
+"""
+Voice transcription provider using Groq.
+
+Stage: 04 - BUILD
+"""
 
 import os
 from pathlib import Path

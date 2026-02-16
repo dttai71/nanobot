@@ -1,4 +1,8 @@
-"""Event types for the message bus."""
+"""
+Event types for the message bus.
+
+Stage: 04 - BUILD
+"""
 
 from dataclasses import dataclass, field
 from datetime import datetime

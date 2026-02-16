@@ -1,5 +1,14 @@
 # Stage 03 — INTEGRATE
 
+**Version**: 1.0.0
+**Date**: February 16, 2026
+**Status**: ACTIVE
+**Authority**: PM/PJM
+**Stage**: 03 - INTEGRATE
+**Sprint**: Sprint 01 - Governance & Core Tests
+
+---
+
 This directory will contain API contracts and integration specifications for Nanobot's external integrations:
 
 - **LLM Provider integrations** (13+ providers via LiteLLM)

@@ -1,3 +1,9 @@
+"""
+Unit tests for CLI commands.
+
+Stage: 05 - TEST
+"""
+
 import shutil
 from pathlib import Path
 from unittest.mock import patch

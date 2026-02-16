@@ -1,3 +1,9 @@
+"""
+Unit tests for CLI input handling.
+
+Stage: 05 - TEST
+"""
+
 import asyncio
 from unittest.mock import AsyncMock, MagicMock, patch
 

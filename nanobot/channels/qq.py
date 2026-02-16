@@ -1,4 +1,8 @@
-"""QQ channel implementation using botpy SDK."""
+"""
+QQ channel implementation using botpy SDK.
+
+Stage: 04 - BUILD
+"""
 
 import asyncio
 from collections import deque

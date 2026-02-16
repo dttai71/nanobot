@@ -1,4 +1,8 @@
-"""Base channel interface for chat platforms."""
+"""
+Base channel interface for chat platforms.
+
+Stage: 04 - BUILD
+"""
 
 from abc import ABC, abstractmethod
 from typing import Any

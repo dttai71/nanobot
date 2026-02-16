@@ -1,8 +1,12 @@
 # Tier Classification — Nanobot
 
+**Version**: 1.0.0
 **Date**: February 16, 2026
+**Status**: ACTIVE
+**Authority**: CTO
+**Stage**: 09 - GOVERN
 **Framework**: SDLC 6.0.5
-**Approved by**: CTO
+**Sprint**: Sprint 01 - Governance & Core Tests
 
 ---
 

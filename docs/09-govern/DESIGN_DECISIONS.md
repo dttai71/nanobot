@@ -1,7 +1,12 @@
 # Design Decisions Index
 
+**Version**: 1.0.0
+**Date**: February 16, 2026
+**Status**: ACTIVE
+**Authority**: PM/PJM
+**Stage**: 09 - GOVERN
 **Framework**: SDLC 6.0.5
-**Last Updated**: February 16, 2026
+**Sprint**: Sprint 01 - Governance & Core Tests
 
 ---
 

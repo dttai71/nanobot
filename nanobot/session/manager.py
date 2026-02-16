@@ -1,4 +1,8 @@
-"""Session management for conversation history."""
+"""
+Session management for conversation history.
+
+Stage: 04 - BUILD
+"""
 
 import json
 from pathlib import Path

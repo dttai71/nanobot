@@ -1,7 +1,11 @@
 # Deployment Guide — Nanobot
 
+**Version**: 1.0.0
 **Date**: February 16, 2026
+**Status**: ACTIVE
+**Authority**: PM/PJM
 **Stage**: 06 - DEPLOY
+**Sprint**: Sprint 01 - Governance & Core Tests
 
 ---
 

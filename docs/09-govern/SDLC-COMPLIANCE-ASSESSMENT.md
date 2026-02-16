@@ -1,10 +1,15 @@
 # SDLC 6.0.5 Compliance Assessment — Nanobot
 
+**Version**: 1.0.0
 **Date**: February 16, 2026
+**Status**: ACTIVE
+**Authority**: PM/PJM
+**Stage**: 09 - GOVERN
 **Assessor**: PM/PJM
 **Reviewed by**: CTO
 **Framework**: SDLC 6.0.5 Enterprise
 **Project**: nanobot v0.1.3.post7
+**Sprint**: Sprint 01 - Governance & Core Tests
 
 ---
 

@@ -1,4 +1,8 @@
-"""Utility functions for nanobot."""
+"""
+Utility functions for nanobot.
+
+Stage: 04 - BUILD
+"""
 
 from nanobot.utils.helpers import ensure_dir, get_workspace_path, get_data_path
 

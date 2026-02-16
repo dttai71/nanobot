@@ -1,4 +1,8 @@
-"""Feishu/Lark channel implementation using lark-oapi SDK with WebSocket long connection."""
+"""
+Feishu/Lark channel implementation using lark-oapi SDK with WebSocket long connection.
+
+Stage: 04 - BUILD
+"""
 
 import asyncio
 import json

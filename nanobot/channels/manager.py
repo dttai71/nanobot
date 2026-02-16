@@ -1,4 +1,8 @@
-"""Channel manager for coordinating chat channels."""
+"""
+Channel manager for coordinating chat channels.
+
+Stage: 04 - BUILD
+"""
 
 from __future__ import annotations
 

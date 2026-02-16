@@ -1,4 +1,8 @@
-"""Context builder for assembling agent prompts."""
+"""
+Context builder for assembling agent prompts.
+
+Stage: 04 - BUILD
+"""
 
 import base64
 import mimetypes

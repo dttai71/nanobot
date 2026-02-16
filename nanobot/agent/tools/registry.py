@@ -1,4 +1,8 @@
-"""Tool registry for dynamic tool management."""
+"""
+Tool registry for dynamic tool management.
+
+Stage: 04 - BUILD
+"""
 
 from typing import Any
 

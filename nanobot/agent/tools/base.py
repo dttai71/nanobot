@@ -1,4 +1,8 @@
-"""Base class for agent tools."""
+"""
+Base class for agent tools.
+
+Stage: 04 - BUILD
+"""
 
 from abc import ABC, abstractmethod
 from typing import Any

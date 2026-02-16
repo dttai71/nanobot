@@ -1,9 +1,12 @@
 # Phase 1: Quality Foundation
 
 **Version**: 1.0.0
-**Status**: Active
+**Date**: February 16, 2026
+**Status**: ACTIVE
+**Authority**: PM/PJM
+**Stage**: 04 - BUILD
 **Duration**: 2026-02-17 - 2026-03-14 (4 weeks)
-**Owner**: PM/PJM
+**Sprint**: Sprint 01 - Governance & Core Tests
 
 ---
 
@@ -54,8 +57,9 @@ Key Deliverables:
 - [x] 5 foundation ADRs
 - [x] AGENTS.md (< 60 lines, SDLC compliant)
 - [ ] Unit tests for AgentLoop, MessageBus, ContextBuilder, MemoryStore
-- [ ] .github/ governance files (PR template, issue templates, CODEOWNERS)
-- [ ] Pre-commit hooks configuration
+- [x] .github/ governance files (PR template, issue templates, CODEOWNERS)
+- [x] Pre-commit hooks configuration
+- [x] CONTRIBUTING.md with SDLC tier reference
 
 ### Sprint 02: Provider & Channel Tests
 **Duration**: Mar 3 - Mar 14, 2026

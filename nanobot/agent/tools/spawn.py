@@ -1,4 +1,8 @@
-"""Spawn tool for creating background subagents."""
+"""
+Spawn tool for creating background subagents.
+
+Stage: 04 - BUILD
+"""
 
 from typing import Any, TYPE_CHECKING
 

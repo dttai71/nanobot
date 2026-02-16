@@ -1,4 +1,8 @@
-"""File system tools: read, write, edit."""
+"""
+File system tools: read, write, edit.
+
+Stage: 04 - BUILD
+"""
 
 from pathlib import Path
 from typing import Any

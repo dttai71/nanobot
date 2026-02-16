@@ -1,4 +1,8 @@
-"""Mochat channel implementation using Socket.IO with HTTP polling fallback."""
+"""
+Mochat channel implementation using Socket.IO with HTTP polling fallback.
+
+Stage: 04 - BUILD
+"""
 
 from __future__ import annotations
 

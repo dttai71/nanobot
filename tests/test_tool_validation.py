@@ -1,3 +1,9 @@
+"""
+Unit tests for tool validation.
+
+Stage: 05 - TEST
+"""
+
 from typing import Any
 
 from nanobot.agent.tools.base import Tool

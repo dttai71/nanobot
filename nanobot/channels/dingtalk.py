@@ -1,4 +1,8 @@
-"""DingTalk/DingDing channel implementation using Stream Mode."""
+"""
+DingTalk/DingDing channel implementation using Stream Mode.
+
+Stage: 04 - BUILD
+"""
 
 import asyncio
 import json

@@ -1,4 +1,8 @@
-"""Configuration schema using Pydantic."""
+"""
+Configuration schema using Pydantic.
+
+Stage: 04 - BUILD
+"""
 
 from pathlib import Path
 from pydantic import BaseModel, Field, ConfigDict

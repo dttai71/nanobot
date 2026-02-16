@@ -1,4 +1,8 @@
-"""Telegram channel implementation using python-telegram-bot."""
+"""
+Telegram channel implementation using python-telegram-bot.
+
+Stage: 04 - BUILD
+"""
 
 from __future__ import annotations
 

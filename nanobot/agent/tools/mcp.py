@@ -1,4 +1,8 @@
-"""MCP client: connects to MCP servers and wraps their tools as native nanobot tools."""
+"""
+MCP client: connects to MCP servers and wraps their tools as native nanobot tools.
+
+Stage: 04 - BUILD
+"""
 
 from contextlib import AsyncExitStack
 from typing import Any

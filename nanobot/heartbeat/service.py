@@ -1,4 +1,8 @@
-"""Heartbeat service - periodic agent wake-up to check for tasks."""
+"""
+Heartbeat service - periodic agent wake-up to check for tasks.
+
+Stage: 04 - BUILD
+"""
 
 import asyncio
 from pathlib import Path

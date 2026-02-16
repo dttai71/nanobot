@@ -1,4 +1,8 @@
-"""Slack channel implementation using Socket Mode."""
+"""
+Slack channel implementation using Socket Mode.
+
+Stage: 04 - BUILD
+"""
 
 import asyncio
 import re

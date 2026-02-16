@@ -1,4 +1,8 @@
-"""Discord channel implementation using Discord Gateway websocket."""
+"""
+Discord channel implementation using Discord Gateway websocket.
+
+Stage: 04 - BUILD
+"""
 
 import asyncio
 import json

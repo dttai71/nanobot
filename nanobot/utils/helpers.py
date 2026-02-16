@@ -1,4 +1,8 @@
-"""Utility functions for nanobot."""
+"""
+Utility functions for nanobot.
+
+Stage: 04 - BUILD
+"""
 
 from pathlib import Path
 from datetime import datetime

@@ -1,9 +1,11 @@
 # Nanobot Product Roadmap
 
 **Version**: 1.0.0
-**Status**: Active
-**Owner**: PM/PJM (under CTO direction)
-**Last Updated**: 2026-02-16
+**Date**: February 16, 2026
+**Status**: ACTIVE
+**Authority**: PM/PJM (under CTO direction)
+**Stage**: 01 - PLANNING
+**Sprint**: Sprint 01 - Governance & Core Tests
 
 ---
 
