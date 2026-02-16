@@ -1,0 +1,24 @@
+# Nanobot Code Owners
+# Per SDLC 6.0.5 STANDARD tier — 1+ reviewer required
+
+# Core agent (highest risk)
+/nanobot/agent/           @Re-bin
+/nanobot/bus/             @Re-bin
+
+# Configuration & providers
+/nanobot/config/          @Re-bin
+/nanobot/providers/       @Re-bin
+
+# Channels
+/nanobot/channels/        @Re-bin
+
+# CLI
+/nanobot/cli/             @Re-bin
+
+# Security-sensitive
+/nanobot/agent/tools/shell.py  @Re-bin
+/SECURITY.md              @Re-bin
+
+# Documentation
+/docs/                    @Re-bin
+/AGENTS.md                @Re-bin
